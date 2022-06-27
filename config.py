@@ -19,11 +19,11 @@ extensions = ["holly"]
 
 holly = {
     "homepage": {
-        "root_urls": "@root/parent//",
+        "root_urls": "@root/notes//",
     },
     "roots": [
         {
-            "root_url": "@root/parent//",
+            "root_url": "@root/notes//",
         },
     ],
 }

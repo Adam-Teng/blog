@@ -1,5 +1,5 @@
 ---
-title: Parent Page
+title: My Notes
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
