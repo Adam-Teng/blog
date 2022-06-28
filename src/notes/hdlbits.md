@@ -1,5 +1,5 @@
 ---
-title: Child One
+title: HDLBits solution
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
