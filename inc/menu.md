@@ -11,4 +11,5 @@
     * [school](@root/notes/school//)
     * [leetcode](@root/notes/leetcode//)
     * [HDLBits](@root/notes/hdlbits//)
+    * [tools](@root/notes/tools//)
 * [resources](@root/resources//)

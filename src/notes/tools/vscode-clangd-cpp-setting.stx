@@ -1,0 +1,15 @@
+---
+title: vscode中clangd插件防误报错的小配置
+---
+
+当使用clangd插件只进行高亮和补全而不使用编译器时，为了避免clangd插件的本地项目头文件报错`pp files not found`，新建`.vscode/settings.json`并添加如下代码：
+
+::: code json
+
+    {
+      "clangd.fallbackFlags": [
+        "-I${workspaceFolder}", // vscode variable
+        "-I${workspaceFolder}/relative-paths-for-include-files",
+        "-I${workspaceFolder}/src/database",//an example
+      ]
+    }
