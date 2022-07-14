@@ -1,6 +1,7 @@
 ---
-title: MIT 6.s081相关的实验
+title: 操作系统
 ---
 
-蒋炎岩老师的OS Lab设计的足够出色，值得一做
+教科书：[OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+根据实际使用计算机的情况，从自上而下的角度认识操作系统。
